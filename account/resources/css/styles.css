@@ -371,7 +371,7 @@ span.pf-m-error{
     display: block;
     text-indent: 0px;
     position: absolute;
-    top: 20px;
+    top: 0px;
     left: 0;
     width: 100%;
     text-align: center;
